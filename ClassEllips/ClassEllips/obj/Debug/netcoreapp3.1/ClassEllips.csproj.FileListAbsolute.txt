@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\Epam\ClassEllips\ClassEllips\bin\Debug\netcoreapp3.1\ClassEllips.exe
+C:\Users\user\Desktop\Epam\ClassEllips\ClassEllips\bin\Debug\netcoreapp3.1\ClassEllips.deps.json
+C:\Users\user\Desktop\Epam\ClassEllips\ClassEllips\bin\Debug\netcoreapp3.1\ClassEllips.runtimeconfig.json
+C:\Users\user\Desktop\Epam\ClassEllips\ClassEllips\bin\Debug\netcoreapp3.1\ClassEllips.runtimeconfig.dev.json
+C:\Users\user\Desktop\Epam\ClassEllips\ClassEllips\bin\Debug\netcoreapp3.1\ClassEllips.dll
+C:\Users\user\Desktop\Epam\ClassEllips\ClassEllips\bin\Debug\netcoreapp3.1\ClassEllips.pdb
+C:\Users\user\Desktop\Epam\ClassEllips\ClassEllips\obj\Debug\netcoreapp3.1\ClassEllips.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Epam\ClassEllips\ClassEllips\obj\Debug\netcoreapp3.1\ClassEllips.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Epam\ClassEllips\ClassEllips\obj\Debug\netcoreapp3.1\ClassEllips.AssemblyInfo.cs
+C:\Users\user\Desktop\Epam\ClassEllips\ClassEllips\obj\Debug\netcoreapp3.1\ClassEllips.dll
+C:\Users\user\Desktop\Epam\ClassEllips\ClassEllips\obj\Debug\netcoreapp3.1\ClassEllips.pdb
